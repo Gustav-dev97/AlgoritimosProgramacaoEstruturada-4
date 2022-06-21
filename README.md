@@ -37,3 +37,11 @@ Regras para operação de pilhas:
 
 Os elementos inseridos em uma pilha apresenta, uma sequência de inserção. O primeiro elemento que entra na pilha só pode ser removido por último, após todos os outros elementos serem removidos.
 Segundo Celes, Cerqueira e Rangel (2004), os elementos da pilha só podem ser retirados na ordem inversa da ordem em que nela foram inseridos. Isso é conhecido como LIFO (last in, first out, ou seja, o último que entra é o primeiro a sair) ou FILO (first in, last out, ou seja, primeiro que entra é o último a sair).
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Inserindo Elementos](https://user-images.githubusercontent.com/76456917/174708324-fe567543-0734-49fe-8c79-d2dcf13c3aa7.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Retirando Elementos](https://user-images.githubusercontent.com/76456917/174708429-513fa90a-475a-413e-9b5a-5a2856bd8002.png)
