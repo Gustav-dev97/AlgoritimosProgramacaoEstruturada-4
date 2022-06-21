@@ -6,14 +6,14 @@ Esta ultima parte abordará a respeito de Filas:
 
 Exemplos: 
  
-    - Manipulação Números
+   - Manipulação Números
  
 E exercícios:
  
-    - Exercício 1
-    - Exercício 2
-    - Exemplo 3
-    - Exercício Fila 1
-    - Exercício Fila 2
+   - Exercício 1
+   - Exercício 2
+   - Exemplo 3
+   - Exercício Fila 1
+   - Exercício Fila 2
     
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
